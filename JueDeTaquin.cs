@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing ;
 using System.Windows.Forms;
 
@@ -12,10 +12,10 @@ class JueDeTuquin : Form
     Point ptBlank;
     int iTimerCountDown;
 
-    //public static void Main()
-    //{
-    //    Application.Run(new JueDeTuquin());
-    //}
+    public static void Main()
+    {
+        Application.Run(new JueDeTuquin());
+    }
 
     public JueDeTuquin()
     {
