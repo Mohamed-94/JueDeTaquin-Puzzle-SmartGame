@@ -26,7 +26,7 @@
 <h4>
 Tasks:
 </h4>
- -Try to arranging all numbers from 1 to 9.
+ -Try to arranging all numbers from 1 to 15.
  
  -Do this arrangement as closest and fatest as possible .
  
