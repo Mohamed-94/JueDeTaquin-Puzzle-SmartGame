@@ -12,7 +12,7 @@ class JueDeTaquinTile : UserControl
         Enabled = false;
 
     }
-
+//
     protected override void OnPaint(PaintEventArgs e)
     {
         Graphics graf = e.Graphics;
