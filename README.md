@@ -10,6 +10,7 @@
   <a href="#About">About</a> •
   <a href="#Usage">Usage</a> •
   <a href="#Download">Download</a> •
+ <a href="#Credit">Credit</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a> 
 </p>
@@ -57,6 +58,9 @@ $ cd JueDeTaquin-Puzzle-SmartGame
 
 ```
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+## Credit
+This application is built with help of this Petzold's [book](http://index-of.es/Programming/CSharp/Charles%20Petzold%20-%20Programming%20Microsoft%20Windows%20with%20C%23.pdf)
 
 ## Related
 
