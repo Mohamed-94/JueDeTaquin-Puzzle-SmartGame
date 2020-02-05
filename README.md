@@ -23,19 +23,19 @@
 </div>
 
 ## About
- JueDeTaquin is a famous french puzzele from 19th century, Now this puzzle are coded with c# to produce a cool smart-game to kill some time!. 
+ JueDeTaquin is a famous french puzzele from 19th century, Now this puzzle has been coded with c# to produce a cool intelligence-game to kill some time!. 
 <h4>
 Tasks:
 </h4>
- -Try to arranging all numbers from 1 to 15.
+ -Try to rearrange all numbers from 1 to 15.
  
- -Do this arrangement as closest and fatest as possible .
+ -Do this arrangement as closest and fastest as possible .
  
 
 
 ## Usage
 
-To clone and edit this application, you'll need [Git](https://git-scm.com) and [Visual Studio Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#) ,or any C# IDE you are familiar with, and/or can meet your demands.
+To clone and edit this application, you'll need [Git](https://git-scm.com) and [Visual Studio Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#) ,or any C# IDE you are familiar with.
 
 --This program requires .NET Framework 4.0 or higher ..
 
@@ -60,7 +60,7 @@ $ cd JueDeTaquin-Puzzle-SmartGame
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 ## Credit
-This application was built with help of this Petzold's [book](http://index-of.es/Programming/CSharp/Charles%20Petzold%20-%20Programming%20Microsoft%20Windows%20with%20C%23.pdf)
+This application was built with the help of this Petzold's [book](http://index-of.es/Programming/CSharp/Charles%20Petzold%20-%20Programming%20Microsoft%20Windows%20with%20C%23.pdf)
 
 ## Related
 
